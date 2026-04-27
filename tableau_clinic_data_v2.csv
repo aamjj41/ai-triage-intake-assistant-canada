@@ -1,0 +1,51 @@
+Patient_ID,Intake_Date,Age,Province,Symptom,Pain_Level,Breathing_Issue,Risk_Group,Visit_Type,Clinic_Action
+P001,2026-04-05,46,British Columbia,Chest Pain,9,Yes,Critical,Urgent Visit,Send Immediately
+P002,2026-04-20,72,Ontario,Fever,2,Yes,Critical,Same Day Visit,Send Immediately
+P003,2026-04-05,82,Prince Edward Island,Fever,9,Yes,Critical,Same Day Visit,Send Immediately
+P004,2026-04-25,87,Nova Scotia,Headache,8,No,Critical,Routine Visit,Send Immediately
+P005,2026-04-01,38,Nova Scotia,Shortness of Breath,5,Yes,Higher Risk,Urgent Visit,Nurse Review
+P006,2026-04-05,61,Quebec,Chest Pain,7,Yes,Critical,Urgent Visit,Send Immediately
+P007,2026-04-10,62,Prince Edward Island,Fatigue,1,No,Standard Risk,Routine Visit,Routine Appointment
+P008,2026-04-20,33,Nova Scotia,Chest Pain,9,No,Critical,Urgent Visit,Send Immediately
+P009,2026-04-25,64,Prince Edward Island,Headache,2,Yes,Higher Risk,Routine Visit,Priority Booking
+P010,2026-04-25,47,Manitoba,Chest Pain,4,Yes,Higher Risk,Urgent Visit,Nurse Review
+P011,2026-04-15,53,New Brunswick,Shortness of Breath,3,No,Standard Risk,Urgent Visit,Nurse Review
+P012,2026-04-10,44,Manitoba,Chest Pain,10,Yes,Critical,Urgent Visit,Send Immediately
+P013,2026-04-20,49,British Columbia,Dizziness,7,No,Higher Risk,Same Day Visit,Priority Booking
+P014,2026-04-25,89,Alberta,Shortness of Breath,1,Yes,Critical,Urgent Visit,Send Immediately
+P015,2026-04-01,58,Nova Scotia,Fatigue,2,Yes,Higher Risk,Routine Visit,Priority Booking
+P016,2026-04-20,58,Alberta,Dizziness,7,No,Higher Risk,Same Day Visit,Priority Booking
+P017,2026-04-05,51,British Columbia,Headache,9,No,Critical,Routine Visit,Send Immediately
+P018,2026-04-25,72,Prince Edward Island,Abdominal Pain,6,Yes,Critical,Routine Visit,Send Immediately
+P019,2026-04-05,83,New Brunswick,Chest Pain,1,Yes,Critical,Urgent Visit,Send Immediately
+P020,2026-04-05,38,Nova Scotia,Back Pain,2,No,Standard Risk,Routine Visit,Routine Appointment
+P021,2026-04-15,77,Newfoundland and Labrador,Fatigue,9,Yes,Critical,Routine Visit,Send Immediately
+P022,2026-04-25,32,Newfoundland and Labrador,Fatigue,6,Yes,Higher Risk,Routine Visit,Priority Booking
+P023,2026-04-10,73,British Columbia,Dizziness,1,No,Standard Risk,Same Day Visit,Same Day Appointment
+P024,2026-04-20,40,Newfoundland and Labrador,Chest Pain,5,Yes,Higher Risk,Urgent Visit,Nurse Review
+P025,2026-04-05,65,British Columbia,Nausea,9,Yes,Critical,Same Day Visit,Send Immediately
+P026,2026-04-20,59,New Brunswick,Fever,2,No,Standard Risk,Same Day Visit,Same Day Appointment
+P027,2026-04-10,48,Ontario,Headache,10,Yes,Critical,Routine Visit,Send Immediately
+P028,2026-04-01,80,Quebec,Nausea,3,Yes,Critical,Same Day Visit,Send Immediately
+P029,2026-04-25,78,Newfoundland and Labrador,Cough,5,No,Higher Risk,Routine Visit,Priority Booking
+P030,2026-04-05,87,Alberta,Fatigue,7,No,Higher Risk,Routine Visit,Priority Booking
+P031,2026-04-15,84,New Brunswick,Chest Pain,4,Yes,Critical,Urgent Visit,Send Immediately
+P032,2026-04-01,61,Ontario,Back Pain,9,Yes,Critical,Routine Visit,Send Immediately
+P033,2026-04-20,46,Ontario,Chest Pain,1,Yes,Higher Risk,Urgent Visit,Nurse Review
+P034,2026-04-01,22,Saskatchewan,Chest Pain,9,Yes,Critical,Urgent Visit,Send Immediately
+P035,2026-04-10,80,Alberta,Nausea,3,No,Standard Risk,Same Day Visit,Same Day Appointment
+P036,2026-04-05,78,Nova Scotia,Headache,2,Yes,Critical,Routine Visit,Send Immediately
+P037,2026-04-25,73,Saskatchewan,Abdominal Pain,7,No,Higher Risk,Routine Visit,Priority Booking
+P038,2026-04-25,24,Quebec,Fever,7,No,Higher Risk,Same Day Visit,Priority Booking
+P039,2026-04-01,49,Alberta,Headache,9,No,Critical,Routine Visit,Send Immediately
+P040,2026-04-05,72,British Columbia,Fatigue,8,Yes,Critical,Routine Visit,Send Immediately
+P041,2026-04-01,74,Newfoundland and Labrador,Chest Pain,1,Yes,Critical,Urgent Visit,Send Immediately
+P042,2026-04-01,48,British Columbia,Abdominal Pain,8,No,Critical,Routine Visit,Send Immediately
+P043,2026-04-05,69,Ontario,Cough,7,Yes,Critical,Routine Visit,Send Immediately
+P044,2026-04-15,51,New Brunswick,Fatigue,7,No,Higher Risk,Routine Visit,Priority Booking
+P045,2026-04-05,42,Manitoba,Headache,1,Yes,Higher Risk,Routine Visit,Priority Booking
+P046,2026-04-25,58,Ontario,Fever,10,No,Critical,Same Day Visit,Send Immediately
+P047,2026-04-20,85,British Columbia,Fever,9,Yes,Critical,Same Day Visit,Send Immediately
+P048,2026-04-05,26,Prince Edward Island,Chest Pain,4,No,Standard Risk,Urgent Visit,Nurse Review
+P049,2026-04-01,90,Alberta,Back Pain,10,Yes,Critical,Routine Visit,Send Immediately
+P050,2026-04-20,28,Nova Scotia,Back Pain,10,No,Critical,Routine Visit,Send Immediately
